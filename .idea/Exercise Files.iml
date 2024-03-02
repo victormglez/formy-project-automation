@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/Ch01/01_04/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Ch02/02_02/end/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Ch02/02_02/start/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Ch02/02_03/end/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Ch02/02_03/start/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Ch02/02_04/end/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Ch02/02_04/start/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Ch02/02_05/end/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Ch02/02_05/start/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Ch02/02_06/end/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Ch02/02_06/start/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Ch02/02_07/end/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Ch02/02_07/start/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Ch02/02_08/end/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Ch02/02_08/start/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Ch04/04_02/end/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Ch04/04_02/start/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Ch04/04_03/end/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Ch04/04_03/start/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Ch04/04_04/end/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Ch04/04_04/start/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Ch04/04_05/end/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Ch04/04_05/start/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Ch05/05_02/end/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Ch05/05_02/start/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Ch05/05_03/end/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Ch05/05_03/start/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Ch06/06_01/end/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Ch06/06_01/start/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Ch06/06_02/end/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Ch06/06_02/start/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Ch06/06_03/end/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Ch06/06_03/start/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Ch06/06_04/end/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Ch06/06_04/start/test" isTestSource="true" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
